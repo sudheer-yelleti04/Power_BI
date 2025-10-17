@@ -1,0 +1,70 @@
+DAX (Data Analysis Expressions)
+│
+├── 1. DAX Fundamentals
+│   ├── What is DAX? and its Importance in Power BI
+│   ├── Syntax & Formula Structure
+│   ├── Data Types in DAX
+│   ├── Evaluation Context
+│   │   ├── Row Context
+│   │   └── Filter Context
+│   └── Context Transition (CALCULATE)
+│
+├── 2. Calculations in DAX
+│   ├── Calculated Columns
+│   ├── Measures
+│   ├── Tables (Calculated Tables)
+│   └── Variables (VAR and RETURN)
+│
+├── 3. Core DAX Functions
+│   ├── Aggregation Functions
+│   │   ├── SUM, AVERAGE, MIN, MAX
+│   │   └── DISTINCTCOUNT, COUNTROWS
+│   ├── Logical Functions
+│   │   ├── IF, SWITCH, AND, OR
+│   ├── Text Functions
+│   │   ├── CONCATENATE, LEFT, RIGHT, SEARCH
+│   ├── Date & Time Functions
+│   │   ├── TODAY, YEAR, MONTH, EOMONTH
+│   └── Filter Functions
+│       ├── FILTER, ALL, ALLEXCEPT
+│       └── CALCULATE, REMOVEFILTERS
+│
+├── 4. Advanced DAX Concepts
+│   ├── Iterators (X Functions)
+│   │   ├── SUMX, AVERAGEX, MINX, MAXX
+│   ├── Table Functions
+│   │   ├── VALUES, DISTINCT, CROSSJOIN
+│   │   └── GENERATE, ADDCOLUMNS, SUMMARIZE
+│   ├── Relationship Handling in DAX
+│   │   ├── RELATED, RELATEDTABLE
+│   │   └── USERELATIONSHIP, CROSSFILTER
+│   ├── Ranking & Dynamic Calculations
+│   │   ├── RANKX, TOPN
+│   └── Virtual Tables
+│
+├── 5. Time Intelligence
+│   ├── YTD, MTD, QTD
+│   ├── SAMEPERIODLASTYEAR, DATEADD
+│   ├── PARALLELPERIOD, PREVIOUSMONTH
+│   ├── Running Totals
+│   └── Dynamic Date Calculations
+│
+├── 6. Performance Optimization
+│   ├── Optimize DAX Queries
+│   ├── Reduce Row Context Calculations
+│   ├── Avoid Unnecessary Calculated Columns
+│   ├── Optimize Relationships & Filters
+│   └── Use Variables for Efficiency
+│
+├── 7. DAX Studio & Debugging
+│   ├── Introduction to DAX Studio
+│   ├── Query Performance Analysis
+│   ├── Server Timings & Query Plans
+│   └── Testing and Debugging Formulas
+│
+└── 8. Real-World DAX Scenarios
+    ├── Dynamic KPIs
+    ├── Sales Growth Calculations
+    ├── Customer Segmentation
+    ├── Year-over-Year Comparisons
+    └── Forecasting & Trend Analysis
