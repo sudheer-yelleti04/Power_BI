@@ -1,0 +1,49 @@
+Power BI
+│
+├── Power BI Desktop
+│   ├── Data Preparation
+│   │   ├── Connect to Data Sources
+│   │   ├── Power Query (ETL)
+│   │   ├── Data Cleaning & Shaping
+│   │   ├── Data Modeling
+│   │   └── Relationships & DAX
+│   │
+│   ├── Data Visualization
+│   │   ├── Report View
+│   │   ├── Visual Elements (Charts, Cards, Maps)
+│   │   ├── Custom Visuals
+│   │   └── Drill-through / Tooltips
+│   │
+│   ├── DAX Calculations
+│   │   ├── Measures
+│   │   ├── Calculated Columns
+│   │   ├── Time Intelligence
+│   │   └── KPIs
+│   │
+│   └── Publish to Power BI Service
+│
+└── Power BI Service
+    ├── Workspaces
+    │   ├── My Workspace
+    │   ├── Shared Workspaces
+    │   └── Roles & Permissions
+    │
+    ├── Datasets
+    │   ├── Scheduled Refresh
+    │   ├── Gateway Connection
+    │   └── Dataflow Management
+    │
+    ├── Reports & Dashboards
+    │   ├── Pin Visuals to Dashboard
+    │   ├── Report Sharing
+    │   ├── App Creation
+    │   └── Collaboration
+    │
+    ├── Power BI Apps
+    │   ├── Organizational Apps
+    │   └── App Distribution
+    │
+    └── Power BI Admin
+        ├── Governance & Security
+        ├── Usage Metrics
+        └── Licensing (Pro / Premium / Fabric)
